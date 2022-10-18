@@ -32,8 +32,8 @@ You can select specific categories of data or a larger download! If you select a
 
 ### Project Technologies ###
 
-* WordCloud
 * Pandas
+* Pandas_profiling
 * Datapane
 * Plotly
-* Pandas_profiling
+* WordCloud
